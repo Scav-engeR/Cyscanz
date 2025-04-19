@@ -1,0 +1,11 @@
+rich
+requests
+colorama
+termcolor
+bs4
+httpx
+progressbar
+tabulate
+argparse
+pyregex
+aiohttp
