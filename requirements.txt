@@ -1,3 +1,4 @@
+aiofiles
 aiohappyeyeballs
 rich
 requests
@@ -11,3 +12,7 @@ argparse
 regex
 aiohttp
 regexpy
+aiohttp
+beautifulsoup4
+mechanize
+tqdm
