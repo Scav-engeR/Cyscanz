@@ -1,7 +1,7 @@
 # CyScanz - Advanced Web Vulnerability Scanner
 
 <p align="center">
-  <em>By: Scav-engeR | Monsoon Squad</em>
+  <em>By: Scav-engeR | HURRICANE SQUAD</em>
 </p>
 
 ```
