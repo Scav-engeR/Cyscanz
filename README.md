@@ -152,4 +152,4 @@ This tool is for security professionals to test systems with explicit permission
 
 ---
 
-<p align="center">Made with ❤️ by Scav-engeR | Monsoon Squad</p>
+<p align="center">Made with ❤️ by Scav-engeR | HURRICANE SQUAD</p>
