@@ -1,3 +1,4 @@
+aiohappyeyeballs
 rich
 requests
 colorama
@@ -7,5 +8,6 @@ httpx
 progressbar
 tabulate
 argparse
-pyregex
+regex
 aiohttp
+regexpy
